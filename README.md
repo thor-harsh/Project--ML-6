@@ -10,4 +10,4 @@ The basic idea behind this is to combine multiple decision trees in determining 
 **Important-Note: Explore the dataset before going through the code.**
 </table>
 
-**So what are you waiting for..? Jump to the code to get started. 
+**So what are you waiting for..? Jump to the code to get started. As usual for any query or doubt see you inside pull request section. Thanks!**
